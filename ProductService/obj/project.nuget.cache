@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NIfgSXEcPoMldZc+KVCyKehVAxb4fgDOKebempbjn2mNEIPxx+ev3IVqGaXXAZ0sRD4scG6U0Ff3MiyqqUEggg==",
+  "success": true,
+  "projectFilePath": "C:\\MicroServicesSample\\MicroServicesSample\\ProductService\\ProductService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harikrishnan.a\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
